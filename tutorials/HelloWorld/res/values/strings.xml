@@ -4,4 +4,5 @@
     <string name="activity_name">Activity Hello World</string>
     <string name="text_header">Hello Juri, Claudia, Jessica and Isaac</string>
     <string name="action_settings">Settings</string>
+    <string name="credits">Credits</string>
 </resources>
