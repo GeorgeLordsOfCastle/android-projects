@@ -1,3 +1,5 @@
 If there is no activity android:label, application android:label it will be used.
 values-<2 char nation> is the pattern to use to support other languages
 Logo is used inside the app (in the app page header), icon is used out of the app (app list menu, android desktop, ecc).
+
+Logo and icon free download site: http://www.flaticon.com/
