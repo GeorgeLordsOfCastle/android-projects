@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Hola Mundo</string>
+    <string name="app_name">App Hola Mundo</string>
+    <string name="activity_name">Actividad Hola Mundo</string>
     <string name="text_header">Hola Juri, Claudia, Jessica y Isaac</string>
 </resources>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Ciao Mondo</string>
+    <string name="app_name">App Ciao Mondo</string>
+    <string name="activity_name">Attività Ciao Mondo</string>
     <string name="text_header">Ciao Juri, Claudia, Jessica e Isaac</string>
 </resources>
