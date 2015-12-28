@@ -1,0 +1,2 @@
+If there is no activity android:label, application android:label it will be used.
+values-<2 char nation> is the pattern to use to support other languages
