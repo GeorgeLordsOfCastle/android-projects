@@ -3,4 +3,5 @@
     <string name="app_name">App Hola Mundo</string>
     <string name="activity_name">Actividad Hola Mundo</string>
     <string name="text_header">Hola Juri, Claudia, Jessica y Isaac</string>
+    <string name="action_settings">Configuraciónes</string>
 </resources>
