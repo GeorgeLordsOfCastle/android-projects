@@ -31,6 +31,9 @@ public class HelloWorldActivity extends Activity {
         if (id == R.id.action_settings) {
             return true;
         }
+        if (id == R.id.credits) {
+            return true;
+        }
         return super.onOptionsItemSelected(item);
     }
 }
